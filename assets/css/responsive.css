@@ -1,0 +1,16 @@
+
+@media (max-width: 1024px)
+{
+    .grid__column10 .grid__column2 {
+        width: 25%;
+    }
+}
+@media (max-width: 740px)
+{
+    .grid__column10 .grid__column2 {
+        width: 33.3333%;
+    }
+    .--none {
+        display: none;
+    }
+}
